@@ -1,0 +1,12 @@
+.header {
+    background: #RRR;
+  }
+  .sample:hover {
+    background: #000;
+  }
+  .sample.brother {
+    background: #333;
+  }
+  .parent .sample {
+    background: #999;
+  }
